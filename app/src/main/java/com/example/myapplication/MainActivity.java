@@ -18,6 +18,11 @@ public class MainActivity extends AppCompatActivity {
     EditText ord;
     TextView tv1,tv2;
 
+    TextView tv3;
+
+    ///////////////////////////////
+    //////////////////////////////
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
